@@ -2,7 +2,7 @@
 
 Namaste! 🙏 Hey there! 👋
 
-I'm **Tech Genius**, a driven **Full-Stack** and **DevOps Developer** with a passion for technology and innovation. My journey in tech started when I was in 4th grade, and since then, I've been on a mission to make the web a better place.
+I'm **Supratik Mahato**, a driven **Full-Stack** and **DevOps Developer** with a passion for technology and innovation. My journey in tech started when I was in 4th grade, and since then, I've been on a mission to make the web a better place.
 
 As an enthusiastic **Open-Source** contributor, I've had the privilege of working on projects that have positively impacted the developer community. Recently, I’ve been contributing to enhancing **Developer Experience (DX)** in [**Nuxt.js**](https://nuxt.com) and other projects. Beyond code, I’m also dedicated to improving **documentation**—because clear, concise docs are essential for empowering developers and making tools accessible to everyone.
 
