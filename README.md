@@ -14,7 +14,7 @@ When I'm not coding, I'm usually diving into the latest tech trends, experimenti
 ![Tech Genius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supratikmahato&count_private=true&theme=tokyonight&show_icons=true)
 
 ## Nuxter
-[![TechGenius7777 Nuxter profile](https://nuxters.nuxt.com/card/TechGenius7777/og.png)](https://nuxters.nuxt.com/TechGenius7777)
+[![supratikmahato Nuxter profile](https://nuxters.nuxt.com/card/supratikmahato/og.png)](https://nuxters.nuxt.com/supratikmahato)
 
 ## Unwrapped 2023
 
