@@ -10,9 +10,6 @@ When I'm not coding, I'm usually diving into the latest tech trends, experimenti
 
 **Building the future, one line of code at a time. 🚀**
 
-## Stats
-![Tech Genius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supratikmahato&count_private=true&theme=tokyonight&show_icons=true)
-
 ## Nuxter
 [![supratikmahato Nuxter profile](https://nuxters.nuxt.com/card/supratikmahato/og.png)](https://nuxters.nuxt.com/supratikmahato)
 
