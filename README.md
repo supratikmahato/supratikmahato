@@ -10,9 +10,6 @@ When I'm not coding, I'm usually diving into the latest tech trends, experimenti
 
 **Building the future, one line of code at a time. 🚀**
 
-## Nuxter
-[![supratikmahato Nuxter profile](https://nuxters.nuxt.com/card/supratikmahato/og.png)](https://nuxters.nuxt.com/supratikmahato)
-
 ## Unwrapped 2023
 
 <table>
