@@ -26,23 +26,3 @@ When I'm not coding, I'm usually diving into the latest tech trends, experimenti
 
 ### 🛠️ Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,figma,discord)
-
-## Unwrapped 2023
-
-<table>
-  <tr>
-    <td><img src='unwrapped-2023/unwrapped_intro.png' width='100%'></td>
-    <td><img src='unwrapped-2023/your_contributions.png' width='100%'></td>
-    <td><img src='unwrapped-2023/contribution_streak.png' width='100%'></td>
-  </tr>
-  <tr>
-    <td><img src='unwrapped-2023/day_night_cycle.png' width='100%'></td>
-    <td><img src='unwrapped-2023/it_takes_a_village.png' width='100%'></td>
-    <td><img src='unwrapped-2023/top_reviewers.png' width='100%'></td>
-  </tr>
-  <tr>
-    <td><img src='unwrapped-2023/pr_reviewed_vs_authored.png' width='100%'></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
